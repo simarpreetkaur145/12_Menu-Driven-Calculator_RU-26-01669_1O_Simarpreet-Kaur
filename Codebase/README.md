@@ -79,6 +79,7 @@ The program is tested using different test cases, including:
 - Subtraction of decimal numbers
 - Multiplication
 - Division
+- Division with zero numerator
 - Division by zero
 - Power operation
 - Modulus operation
