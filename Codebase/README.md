@@ -12,13 +12,14 @@ The program continues displaying the menu until the user chooses the Exit option
 - Subtraction
 - Multiplication
 - Division
+- Division with zero numerator
+- Division by zero
 - Power
 - Modulus
-- Input validation
-- Handles division by zero
-- Handles modulus by zero
-- Displays results up to two decimal places
-- Repeated menu until the user exits
+- Modulus by zero
+- Invalid input during multiplication
+- Invalid menu choice
+- Exit
 
 ## 3. Available Operations
 
