@@ -75,16 +75,16 @@ Appropriate error messages are displayed to guide the user.
 
 The program is tested using different test cases, including:
 
-- Addition of two numbers
-- Subtraction of decimal numbers
+- Addition
+- Subtraction
 - Multiplication
 - Division
 - Division with zero numerator
 - Division by zero
-- Power operation
-- Modulus operation
+- Power
+- Modulus
 - Modulus by zero
-- Non-numeric input
+- Invalid input during multiplication
 - Invalid menu choice
 - Exit option
 
